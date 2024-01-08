@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "my_acopian_dcdc")(type "KiCad")(uri "${KIPRJMOD}/my_acopian_dcdc.pretty")(options "")(descr ""))
+  (lib (name "models")(type "KiCad")(uri "${KIPRJMOD}/models")(options "")(descr ""))
+  (lib (name "my_header")(type "KiCad")(uri "${KIPRJMOD}/my_header.pretty")(options "")(descr ""))
+)
