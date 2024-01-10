@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 01/08/2024 on PARTcommunity/PARTserver/3Dfindit.com:
+EN   Your download at 01/09/2024 on PARTcommunity/PARTserver/3Dfindit.com:
 
        Dear user,
        
@@ -7,7 +7,7 @@ EN   Your download at 01/08/2024 on PARTcommunity/PARTserver/3Dfindit.com:
 
        
 
-       STEP, 705530002, 705530002.stp
+       STEP, TST-112-01-G-D, TST-112-01-G-D.stp
 	
        Information for use:
 
